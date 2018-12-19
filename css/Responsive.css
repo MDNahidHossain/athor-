@@ -1,0 +1,142 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.main-menu {
+	margin-left: -85px;
+}
+
+.main-menu ul li {
+	margin-left: 15px;
+}
+
+.single-content {
+	top: 166px;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.main-menu {
+	margin-left: -100px;
+}
+
+.main-menu ul li {
+	margin-left: 16px;
+}
+
+.about-content h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.about-content p {
+	font-size: 12px;
+}
+
+.services-card h3 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.single-content {
+	top: 185px;
+}
+
+.card {
+	width: 210px;
+}
+
+.card .box .img {
+	width: 105px;
+	height: 101px;
+}
+
+.card .box p {
+	font-size: 12px;
+}
+
+.card .box ul li a {
+	margin: 0 7px;
+}
+
+.contact-item {
+	padding: 15px 15px 15px 71px;
+	margin: 15px 75px;
+	width: 112%;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+.logo {
+	margin-top: 4%;
+	margin-left: -40px;
+}
+
+.banner-content h1 {
+	font-size: 45px;
+}
+ 
+.banner-content p {
+	font-size: 16px;
+}
+
+.title-text p {
+	font-size: 12px;
+}
+
+.about-content h3 {
+	font-size: 21px;
+	margin-bottom: 13px;
+}
+
+.about-content p {
+	font-size: 13px;
+	line-height: 26px;
+}
+
+.video-content h1 {
+	font-size: 25px;
+	margin-bottom: 9px;
+}
+
+.video-content a > i {
+	margin-top: 10px;
+}
+
+.single-content {
+	top: 158px;
+}
+
+.card {
+	margin-bottom: 20px;
+}
+
+.contact-item {
+	left: 30px;
+}
+
+.testimonial .description {
+	font-size: 10px;
+	left: 20px;
+	top: -27px;
+}
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
